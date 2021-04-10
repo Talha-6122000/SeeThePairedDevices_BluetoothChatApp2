@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeeThePairedDevices_BluetoothChatApp2</string>
+    <string name="button_show">Show Paired Devices</string>
+</resources>
